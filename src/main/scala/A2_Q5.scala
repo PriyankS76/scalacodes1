@@ -20,6 +20,8 @@ object A2_Q5 {
 
     import spark.implicits._
 
+
+
     val trData = List(
       (1, "2023-12-01",1200, "Credit"),
       (2, "2023-11-15",600, "Dedit"),
